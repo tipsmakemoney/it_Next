@@ -31,3 +31,5 @@ Email: <input type="text" name="email"><br>
 Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
 <input type="submit" name="submit" value="Submit">
 </form>
+    </body>
+</html>
